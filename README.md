@@ -1,1 +1,1 @@
-# training-angular
+# ng-in-pri-tech
